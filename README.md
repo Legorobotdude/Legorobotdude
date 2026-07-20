@@ -1,14 +1,21 @@
 # Aditya Bawankule
 
-AI-native software engineer in Seattle. Ex-Meta (VR fitness on Quest), UIUC Computer Engineering.
+AI-native software engineer in Seattle, currently building full-stack AI software at Certivo. Ex-Meta (VR fitness on Quest), UIUC Computer Engineering.
 
 I build AI-powered products and tools: GenAI apps, MCP servers, AI-driven SEO tooling, and the occasional game.
 
-## What I build
+## Open source
 
+- [AGINEAR](https://github.com/Legorobotdude/AGINEAR): markdown-native project management. todo.md and roadmap.md as the source of truth, with a CLI, Kanban GUI, and MCP server for AI agents
+- [YouTube Analysis MCP Server](https://github.com/Legorobotdude/yt-analysis-mcp): lets Claude analyze YouTube videos via Gemini. Summaries, Q&A, timestamps, frame capture, no transcripts needed
+- [Image Generation MCP Server](https://github.com/Legorobotdude/mcp-image-gen): AI image generation via Gemini (Nano Banana) from Claude Code or Cursor. Any aspect ratio, up to 4K
+
+## Products
+
+- [Testimonial Genius](https://www.testimonialgenius.com/): AI testimonial analysis. Paste feedback, get themes, ranked quotes, and export-ready reports
+- [Dream Pixel Forge](https://www.dreampixelforge.com/): AI image web app for thumbnails, product photos, virtual staging, and book covers
+- [SysDesignLab](https://sysdesignlab.net/): learn system design hands-on with a drag-and-drop sandbox and scenario simulator
 - [MCP Inspector Online](https://www.adityabawankule.io/tools/mcp-inspector): browser-based inspector for remote MCP servers, no local install
-- [AI SEO Optimizer](https://www.adityabawankule.io/tools/ai-seo-optimizer): scores any page on classic SEO plus AI citation readiness (GEO)
-- [AGINEAR](https://github.com/Legorobotdude/AGINEAR): markdown-native project management with an MCP server for AI agents
 - More free AI tools at [adityabawankule.io/tools](https://www.adityabawankule.io/tools)
 
 ## Writing
